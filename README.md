@@ -98,5 +98,7 @@ typing_extensions
 ## Ссылки
 
 Для работы cycleGAN был взят код из работы  Jun-Yan Zhu и Taesung Park [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+
 Веса предобученных моделей cycleGAN были скачаны из открытого хранилища, связанного с этой работой.
+
 В освоении aioram очень помог обучающий курс MasterGroosha [Пишем Telegram-ботов с aiogram 3.x](https://mastergroosha.github.io/aiogram-3-guide/quickstart/)
