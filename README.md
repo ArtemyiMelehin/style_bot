@@ -14,7 +14,7 @@
 <img src='images/img2vangogh.jpg' align="center" width=532>
 
 3. Преобразование зимнего пейзажа к летнему. Также используется сеть CGAN, предобученная в UC Berkeley.
-<img src='images/dialog_example.jpg' align="center" width=700>
+<img src='images/winter2summer.jpg' align="center" width=532>
 
 ## Особенности работы:
 
