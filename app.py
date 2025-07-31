@@ -27,6 +27,7 @@ async def main():
     print("Run bot")
     await dp.start_polling(bot)
 
+
 # Запуск основного цикла программы
 if __name__ == "__main__":
     asyncio.run(main())

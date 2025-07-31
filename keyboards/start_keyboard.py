@@ -17,3 +17,4 @@ def get_start_keyboard() -> types.ReplyKeyboardMarkup:
     )
 
     return keyboard
+

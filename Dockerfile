@@ -1,5 +1,6 @@
 FROM python:3.11-slim as base
 
+
 ARG TG_BOT_TOKEN
 ENV TG_BOT_TOKEN=$TG_BOT_TOKEN
 

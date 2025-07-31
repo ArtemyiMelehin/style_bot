@@ -14,7 +14,6 @@ temp_dir = gettempdir()  # '/tmp/'
 
 router = Router()
 
-
 # Определим класс состояний пользователя для отслеживания в диалоге
 class UserStates(StatesGroup):
     start = State()
